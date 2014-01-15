@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="386.211px" height="228px" viewBox="84.5 188.5 386.211 228" enable-background="new 84.5 188.5 386.211 228"
+	 xml:space="preserve">
+<g>
+	<g>
+		<path fill="none" stroke="#808285" stroke-width="6" stroke-miterlimit="10" d="M88.641,252.867v-47.91c0-6.62,5.38-12,12-12
+			h47.91h147.191c6.629,0,12,5.38,12,12v47.91c0,6.63-5.371,12-12,12H160.551"/>
+		<path fill="none" stroke="#808285" stroke-width="6" stroke-miterlimit="10" d="M148.551,192.957h-47.91c-6.62,0-12,5.38-12,12
+			v47.91v147.188c0,6.632,5.38,12,12,12h47.91c6.63,0,12-5.368,12-12V264.867"/>
+	</g>
+	
+		<rect x="165.059" y="274.981" transform="matrix(0.9996 0.0273 -0.0273 0.9996 7.7331 -8.574)" fill="#7194CD" width="305.602" height="7.865"/>
+	
+		<line fill="none" stroke="#808285" stroke-width="6" stroke-miterlimit="10" x1="240.331" y1="192.957" x2="240.331" y2="264.867"/>
+	
+		<line fill="none" stroke="#808285" stroke-width="6" stroke-miterlimit="10" x1="160.551" y1="192.957" x2="160.551" y2="264.867"/>
+</g>
+<text transform="matrix(1 0.0039 -0.0039 1 171.7876 340.3096)" fill="#7194CD" font-family="'MyriadPro-Regular'" font-size="59.7049">Diving</text>
+<text transform="matrix(1 0.0039 -0.0039 1 171.5669 396.8906)" fill="#7194CD" font-family="'MyriadPro-Regular'" font-size="59.7049">Heights</text>
+</svg>
